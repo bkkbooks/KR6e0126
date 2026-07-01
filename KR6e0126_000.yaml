@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0126/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴經三十九品大意
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X09/X09n0242.xml
+    old_id: X09n0242
+hash: sha256:e15552be041f720a73d02f6f8bd10abdad09eb2a22dda99e64f84df2d2ad0c50
